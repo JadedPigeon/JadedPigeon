@@ -19,4 +19,4 @@ Backend developer in progress with **9+ years** across **Senior Production Suppo
 
 **Links:**  
 - LinkedIn: https://www.linkedin.com/in/zachary-kerbo-646896125/  
-- Boot.dev profile: https://www.boot.dev/u/ZacharyKerbo
+- Boot.dev profile: https://www.boot.dev/u/zacharykerbo
