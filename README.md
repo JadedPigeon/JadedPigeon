@@ -1,22 +1,30 @@
-# Zachary Kerbo — Backend-Focused Engineer (Go/Python)
+# Zachary Kerbo — Backend Engineer (Go/Python) | QA & Production Support
 
-Backend developer in progress with **9+ years** across **Senior Production Support (7 yrs)** and **Quality Assurance (2 yrs)**. I’ve led incident response and root‑cause analysis for large, patient‑facing systems, and now I’m building reliable, testable **Go** services backed by **PostgreSQL** and clean API design.
+Backend-focused engineer with **9+ years of professional experience** spanning **Senior Production Support (7 yrs)**, **Quality Assurance (2 yrs)**, and **backend development**. I specialize in building reliable, testable APIs with Go and PostgreSQL while leveraging my QA/support background for debugging and system reliability.
 
 ## 🧰 Core Skills
 - **Languages:** Go, Python, SQL  
-- **Backend:** REST APIs, PostgreSQL, SQLC, Goose migrations, authentication (sessions + CSRF), caching, integration with third‑party APIs  
+- **Backend:** REST API design, PostgreSQL, SQLC, Goose migrations, authentication (sessions + CSRF), caching, integration with external APIs  
 - **Quality & Ops:** Manual/Exploratory testing, Postman, Selenium, log analysis, debugging, RCA, CI/CD, AWS (S3, CloudWatch)  
 
 ## 📌 Pinned Projects
-- **[PokemonGolang](https://github.com/JadedPigeon/PokemonGolang)** — Go REST API game server that integrates the PokéAPI, persists data in Postgres, auto‑selects damaging moves, and supports **AI‑generated battle narration** via OpenAI; includes session auth + CSRF, SQLC, and Goose migrations. :contentReference[oaicite:0]{index=0}  
-- **[Zudoku](https://github.com/JadedPigeon/Zudoku)** — A Tkinter‑based Sudoku app in Python with assists (validation, hints, undo, timer, highscores) and a simple launcher. :contentReference[oaicite:1]{index=1}
+- **[PokemonGolang](https://github.com/JadedPigeon/PokemonGolang)**  
+  REST API game server built in Go. Features include:  
+  - User registration/login with secure sessions + CSRF  
+  - Pokémon data ingestion and caching in PostgreSQL  
+  - Auto-selection of up to 4 damaging moves, prioritizing type matchups  
+  - AI-powered battle narration using OpenAI  
+  - Database migrations with Goose and type-safe queries with SQLC  
 
-## 🎯 What I’m Doing Now
-- Building production‑ready Go services (data modeling, migrations, auth, API contracts) and documenting them clearly for others to run and test.
+- **[Zudoku](https://github.com/JadedPigeon/Zudoku)**  
+  A Tkinter-based Sudoku game in Python with:  
+  - Validation, hints, and undo system  
+  - Timer and high-score tracking  
+  - Simple launcher for smooth UX  
 
-## 🤝 Open To
-**Backend Developer, Software Engineer, or Quality Engineering** roles where reliability, observability, and clear API design matter.
+## 🌱 Currently Learning
+Deepening backend engineering expertise with Go and PostgreSQL through [Boot.dev](https://www.boot.dev/u/ZacharyKerbo), and expanding into distributed systems and AI-driven applications.
 
-**Links:**  
-- LinkedIn: https://www.linkedin.com/in/zachary-kerbo-646896125/  
-- Boot.dev profile: https://www.boot.dev/u/zacharykerbo
+---
+📌 Open to opportunities in **Backend Development**, **Software Engineering**, or **Quality Engineering** roles.  
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/zachary-kerbo-646896125/) | [GitHub](https://github.com/JadedPigeon)
