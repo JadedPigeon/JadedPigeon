@@ -1,6 +1,7 @@
 # Zachary Kerbo — Backend Engineer (Go/Python) | QA & Production Support
 
-Backend-focused engineer with **9+ years of professional experience** spanning **Senior Production Support (7 yrs)**, **Quality Assurance (2 yrs)**, and **backend development**. I specialize in building reliable, testable APIs with Go and PostgreSQL while leveraging my QA/support background for debugging and system reliability.
+## 👋 About Me
+I’m Zachary Kerbo, a software professional with 9+ years of experience spanning Quality Assurance (2), Senior Production Support (7), and now backend development. My background in debugging, SQL, APIs, and supporting large-scale production systems naturally led me to pursue backend engineering, where I’ve built projects in Go and Python—including a REST API capstone that integrates authentication, database design, and third-party APIs. I thrive on problem solving, continuous learning, and turning complex systems into reliable solutions. I’m eager to take on tough engineering challenges and deliver software that makes a real-world impact.
 
 ## 🧰 Core Skills
 - **Languages:** Go, Python, SQL  
