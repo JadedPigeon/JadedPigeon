@@ -8,19 +8,23 @@ Backend-focused engineer with **9+ years of professional experience** spanning *
 - **Quality & Ops:** Manual/Exploratory testing, Postman, Selenium, log analysis, debugging, RCA, CI/CD, AWS (S3, CloudWatch)  
 
 ## 📌 Pinned Projects
+
 - **[PokemonGolang](https://github.com/JadedPigeon/PokemonGolang)**  
-  REST API game server built in Go. Features include:  
-  - User registration/login with secure sessions + CSRF  
-  - Pokémon data ingestion and caching in PostgreSQL  
-  - Auto-selection of up to 4 damaging moves, prioritizing type matchups  
-  - AI-powered battle narration using OpenAI  
-  - Database migrations with Goose and type-safe queries with SQLC  
+  A **backend capstone project** showcasing modern Go development practices:  
+  - Written in **Go** with clean package structure and modular design  
+  - **PostgreSQL** persistence with migrations using **Goose** and type-safe queries via **SQLC**  
+  - **RESTful API** with authentication (sessions + CSRF protection) and middleware  
+  - **Integration with external APIs** (PokéAPI) and local caching for performance  
+  - **AI integration** with OpenAI models for dynamic battle narration  
+  - Emphasis on **secure coding, scalability, and testability**  
 
 - **[Zudoku](https://github.com/JadedPigeon/Zudoku)**  
-  A Tkinter-based Sudoku game in Python with:  
-  - Validation, hints, and undo system  
-  - Timer and high-score tracking  
-  - Simple launcher for smooth UX  
+  A **desktop application in Python** designed to highlight UI/UX and application logic:  
+  - Built with **Tkinter** for GUI development  
+  - Incorporates **object-oriented programming** principles for maintainability  
+  - Features user-friendly assists: validation, hints, undo, timers, and high score tracking  
+  - Demonstrates **event-driven programming**, error handling, and data persistence  
+  - Packaged for accessibility with a simple launcher for cross-platform use  
 
 ## 🌱 Currently Learning
 Deepening backend engineering expertise with Go and PostgreSQL through [Boot.dev](https://www.boot.dev/u/ZacharyKerbo), and expanding into distributed systems and AI-driven applications.
