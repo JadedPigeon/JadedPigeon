@@ -25,7 +25,6 @@ I’m Zachary Kerbo, a software professional with 9+ years of experience spannin
   - Incorporates **object-oriented programming** principles for maintainability  
   - Features user-friendly assists: validation, hints, undo, timers, and high score tracking  
   - Demonstrates **event-driven programming**, error handling, and data persistence  
-  - Packaged for accessibility with a simple launcher for cross-platform use  
 
 ## 🌱 Currently Learning
 Deepening backend engineering expertise with Go and PostgreSQL through [Boot.dev](https://www.boot.dev/u/ZacharyKerbo), and expanding into distributed systems and AI-driven applications.
